@@ -1,0 +1,16 @@
+.custom{
+    padding: 3%;
+    
+    
+}
+body{
+    background-image: url("todo.jpg");
+   
+}
+
+h1{
+    font: 6em exo;
+}
+ul {
+    cursor: pointer; 
+}
